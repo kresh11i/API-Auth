@@ -28,23 +28,12 @@ Axios
 
 EJS
 
-📂 Project Structure
-go
-Copy
-Edit
-├── index.js             // Main server file
-├── util/
-│   └── auth.js          // Utility to get bearer token
-├── views/
-│   └── index.ejs        // Renders API responses
-├── routes/
-│   └── bearer.js        // Bearer auth route (modular)
-└── package.json
+
 
 
 step 1 clone
-git clone https://github.com/yourusername/api-auth-explorer.git
-cd api-auth-explorer
+git clone https://github.com/yourusername/api-auth.git
+cd api-auth
 Install dependencies
 
 step 2 install dependencies
